@@ -13,7 +13,7 @@ BSRCS = ./main_bonus.c ./map/map_dimensions_bonus.c ./utils/ft_exit_bonus.c \
 
 
 
-INCLUDES = ../MLX42/build/libmlx42.a ../libft/libft.a  ../MLX42/build/libglfw3.a -Iinclude -lm -framework Cocoa -framework OpenGL -framework IOKit
+INCLUDES = ../MLX/build/libmlx42.a ../libft/libft.a  ../MLX/build/libglfw3.a -Iinclude -lm -framework Cocoa -framework OpenGL -framework IOKit
 
 NAME = fdf_bonus
 B_OBJS = $(BSRCS:.c=.o)

@@ -6,7 +6,7 @@
 /*   By: ochouati <ochouati@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/03 13:41:07 by ochouati          #+#    #+#             */
-/*   Updated: 2024/05/16 14:26:57 by ochouati         ###   ########.fr       */
+/*   Updated: 2025/02/17 18:33:05 by ochouati         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 # define FDF_BONUS_H
 
 # include "../libft/libft.h"
-# include "./../MLX42/include/MLX42/MLX42.h"
+# include "./../MLX/include/MLX42/MLX42.h"
 # include "data_types_bonus.h"
 # include <fcntl.h>
 # include <math.h>

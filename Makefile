@@ -10,7 +10,7 @@ SRCS = ./mandatory/main.c ./mandatory/map/map_dimensions.c ./mandatory/utils/ft_
 
 
 
-INCLUDES = MLX42/build/libmlx42.a libft/libft.a  MLX42/build/libglfw3.a -Iinclude -lm -framework Cocoa -framework OpenGL -framework IOKit
+INCLUDES = MLX/build/libmlx42.a libft/libft.a  MLX/build/libglfw3.a -Iinclude -lm -framework Cocoa -framework OpenGL -framework IOKit
 
 NAME = fdf
 BONUS_NAME = fdf_bonus
